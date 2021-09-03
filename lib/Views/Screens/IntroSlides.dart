@@ -28,7 +28,7 @@ class IntroSlides extends StatelessWidget {
                 ),
                 IntroSlideMembers(
                   imageUrl:
-                      "https:\/\/www.themealdb.com\/images\/media\/meals\/wqqvyq1511179730.jpg",
+                      "https://www.themealdb.com/images/media/meals/wqqvyq1511179730.jpg",
                   textinMiddle: "Amazing Fluid Designs",
                   visiblility: 1,
                 )
