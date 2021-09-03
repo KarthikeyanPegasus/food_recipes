@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:food_recipes/Views/Screens/IntroSlides.dart';
+import 'package:food_recipes/Views/Screens/SigninScreen.dart';
 import 'package:food_recipes/Views/Screens/SplashScreen.dart';
 
 void main() {
@@ -14,7 +15,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: IntroSlides(),
+      home: SignupPage(),
     );
   }
 }
