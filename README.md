@@ -1,6 +1,6 @@
 # food_recipes
 
-A new Flutter project.
+Flutter Food recepies app recreation trial.
 
 ## Getting Started
 
