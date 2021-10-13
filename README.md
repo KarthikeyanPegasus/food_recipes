@@ -1,6 +1,6 @@
-# food_recipes
+# food_recipes UI RECREATION 
 
-Flutter Food recepies app recreation trial.
+This Project is under Development
 
 ## Getting Started
 
